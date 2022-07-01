@@ -10,8 +10,7 @@ tree = Tree("🤓 [link=websiteportfolio13.herokuapp.com]Hícaro")
 tree.add("Back-end developer")
 
 about = """\
-I'm a back-end developer, currently developing a compiler for my own programming language called [link=github.com/HicaroD/idk]"idk"
-"""
+I'm a back-end developer, currently developing a compiler for my own programming language called [link=github.com/HicaroD/idk]'idk'"""
 
 panel = Panel.fit(
     about, box=box.DOUBLE, border_style="blue", title="[b]Hi there", width=60
