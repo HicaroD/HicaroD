@@ -1,5 +1,6 @@
-<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #000080; text-decoration-color: #000080">╔════════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">Hi there</span><span style="color: #000080; text-decoration-color: #000080"> ════════════════════════╗</span> 🤓 <a href="websiteportfolio13.herokuapp.com">Hícaro</a>             
-<span style="color: #000080; text-decoration-color: #000080">║</span> I&#x27;m a back-end developer, currently developing a         <span style="color: #000080; text-decoration-color: #000080">║</span> └── Back-end developer
-<span style="color: #000080; text-decoration-color: #000080">║</span> compiler for my own programming language called <a href="https://github.com/HicaroD/idk">&#x27;idk&#x27;</a>    <span style="color: #000080; text-decoration-color: #000080">║</span>                       
-<span style="color: #000080; text-decoration-color: #000080">╚══════════════════════════════════════════════════════════╝</span>                       
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">╔════════════════════════ Hi there ════════════════════════╗ 🤓 <a href="websiteportfolio13.herokuapp.com">Hícaro Dânrlley</a>       
+║ I&#x27;m currently looking for my first job as back-end       ║ ├── 🔧 Back-end developer
+║ developer. Lately I&#x27;ve been working on a compiler for my ║ └── 💻 Technologies      
+║ own programming language called idk.                     ║     ├── 🐍 Python        
+╚══════════════════════════════════════════════════════════╝     └── 🦀 Rust          
 </pre>

@@ -6,14 +6,18 @@ from rich.tree import Tree
 
 console = Console(record=True, width=100)
 
-tree = Tree("🤓 [link=websiteportfolio13.herokuapp.com]Hícaro")
-tree.add("Back-end developer")
+tree = Tree("🤓 [link=websiteportfolio13.herokuapp.com]Hícaro Dânrlley")
+tree.add("🔧 Back-end developer")
+tech_tree = Tree("💻 Technologies")
+tech_tree.add("🐍 Python")
+tech_tree.add("🦀 Rust")
+tree.add(tech_tree)
 
 about = """\
-I'm a back-end developer, currently developing a compiler for my own programming language called [link=https://github.com/HicaroD/idk]'idk'"""
+I'm currently looking for my first job as back-end developer. Lately I've been working on a compiler for my own programming language called idk."""
 
 panel = Panel.fit(
-    about, box=box.DOUBLE, border_style="blue", title="[b]Hi there", width=60
+    about, box=box.DOUBLE, title="Hi there", width=60
 )
 
 console.print(Columns([panel, tree]))
