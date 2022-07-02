@@ -20,5 +20,8 @@ panel = Panel.fit(
     about, box=box.DOUBLE, title="About me", width=60
 )
 
+CONSOLE_HTML_FORMAT = """\
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>
+"""
 console.print(Columns([panel, tree]))
-console.save_html("README.md", inline_styles=True)
+console.save_html("README.md", inline_styles=True, code_format=CONSOLE_HTML_FORMAT)
