@@ -17,7 +17,7 @@ about = """\
 I'm currently looking for my first job as back-end developer. Lately I've been working on a compiler for my own programming language called idk."""
 
 panel = Panel.fit(
-    about, box=box.DOUBLE, title="Hi there", width=60
+    about, box=box.DOUBLE, title="About me", width=60
 )
 
 console.print(Columns([panel, tree]))
