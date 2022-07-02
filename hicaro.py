@@ -5,9 +5,7 @@ from rich.panel import Panel
 from rich.tree import Tree
 
 def generate_readme_file(console):
-    CONSOLE_HTML_FORMAT = """\
-    <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>
-    """
+    CONSOLE_HTML_FORMAT = """<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>"""
     console.save_html("README.md", inline_styles=True, code_format=CONSOLE_HTML_FORMAT)
 
 def main():
