@@ -21,4 +21,4 @@ panel = Panel.fit(
 )
 
 console.print(Columns([panel, tree]))
-console.save_html("README.md")
+console.save_html("README.md", inline_styles=True)
