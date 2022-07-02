@@ -4,6 +4,13 @@ from rich.console import Console
 from rich.panel import Panel
 from rich.tree import Tree
 
+def generate_readme_file(console):
+    CONSOLE_HTML_FORMAT = """\
+    <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>
+    """
+    console.print(Columns([panel, tree]))
+    console.save_html("README.md", inline_styles=True, code_format=CONSOLE_HTML_FORMAT)
+
 console = Console(record=True, width=100)
 
 tree = Tree("🤓 [link=websiteportfolio13.herokuapp.com]Hícaro Dânrlley")
@@ -19,9 +26,4 @@ I'm currently looking for my first job as back-end developer. Lately I've been w
 panel = Panel.fit(
     about, box=box.DOUBLE, title="About me", width=60
 )
-
-CONSOLE_HTML_FORMAT = """\
-<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>
-"""
-console.print(Columns([panel, tree]))
-console.save_html("README.md", inline_styles=True, code_format=CONSOLE_HTML_FORMAT)
+generate_readme_file(console)
