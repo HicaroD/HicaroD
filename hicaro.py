@@ -18,7 +18,7 @@ def main():
     tech_tree.add("🦀 Rust")
     tree.add(tech_tree)
 
-    about = """I'm currently looking for my first job as back-end developer. Lately I've been working on a compiler for my own programming language called idk."""
+    about = "I'm currently looking for my first job opportunity as back-end developer. Lately I've been working on a compiler for my own programming language called idk."
 
     panel = Panel.fit(
         about, box=box.DOUBLE, title="About me", width=60
