@@ -13,11 +13,6 @@ def main():
 
     tree = Tree("🤓 [link=https://websiteportfolio13.herokuapp.com]Hícaro Dânrlley")
     tree.add("🔧 Back-end developer")
-    tech_tree = Tree("💻 Technologies")
-    tech_tree.add("🐍 Python")
-    tech_tree.add("🦀 Rust")
-    tech_tree.add("💙 Go")
-    tree.add(tech_tree)
 
     about = "I'm currently looking for my first job opportunity as back-end developer. I'm very passionate about compilers, that's why I've been working on a compiler for my own programming language called idk."
 
