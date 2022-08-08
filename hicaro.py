@@ -12,6 +12,7 @@ def main():
     console = Console(record=True, width=100)
 
     tree = Tree("🤓 [link=https://websiteportfolio13.herokuapp.com]Hícaro Dânrlley")
+    tree.add("🇧🇷 18 years-old brazilian")
     tree.add("🔧 Back-end developer")
 
     about = "I'm currently looking for my first job opportunity as back-end developer. I'm very passionate about compilers, that's why I've been working on a compiler for my own programming language called idk."
