@@ -9,7 +9,7 @@ def generate_readme_file(console):
     console.save_html("README.md", inline_styles=True, code_format=CONSOLE_HTML_FORMAT)
 
 def main():
-    console = Console(record=True, width=150)
+    console = Console(record=True, width=100)
 
     tree = Tree("🤓 [link=https://websiteportfolio13.herokuapp.com]Hícaro Dânrlley")
     tree.add("🇧🇷 18 years-old brazilian")
@@ -18,7 +18,7 @@ def main():
     about = "I'm currently looking for my first job opportunity as back-end developer. I'm very passionate about compilers, that's why I've been working on a compiler for my own programming language called idk."
 
     panel = Panel.fit(
-        about, box=box.DOUBLE, title="About me", width=60
+        about, box=box.DOUBLE, title="About me", width=70
     )
     console.print(Columns([panel, tree]))
     generate_readme_file(console)
