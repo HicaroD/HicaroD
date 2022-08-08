@@ -9,7 +9,7 @@ def generate_readme_file(console):
     console.save_html("README.md", inline_styles=True, code_format=CONSOLE_HTML_FORMAT)
 
 def main():
-    console = Console(record=True, width=100)
+    console = Console(record=True, width=150)
 
     tree = Tree("🤓 [link=https://websiteportfolio13.herokuapp.com]Hícaro Dânrlley")
     tree.add("🇧🇷 18 years-old brazilian")
