@@ -19,7 +19,7 @@ def main():
     about = "I'm currently looking for my first job opportunity as back-end developer. I'm very passionate about compilers, that's why I've been working on a compiler for my own programming language called idk."
 
     panel = Panel.fit(
-        about, box=box.DOUBLE, title="About me", width=70
+        about, box=box.DOUBLE, title="About me", width=60
     )
     console.print(Columns([panel, tree]))
     generate_readme_file(console)
