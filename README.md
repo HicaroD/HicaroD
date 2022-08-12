@@ -7,5 +7,5 @@
 🤓 <a href="https://websiteportfolio13.herokuapp.com">Hícaro Dânrlley</a>                                                    
 ├── 🇧🇷 18 years-old brazilian                                         
 ├── 🔧 Back-end developer                                             
-└── 📚 Computer Science student at Universidade Federal de Alagoas    
+└── 📚 Computer Science student at <a href="https://ufal.br/">UFAL</a>                               
 </pre>
