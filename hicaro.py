@@ -8,7 +8,8 @@ def main():
     console = Console(record=True, width=100)
 
     tree = Tree("🤓 [link=https://websiteportfolio13.herokuapp.com]Hícaro Dânrlley")
-    tree.add("🇧🇷 18 years-old brazilian")
+    tree.add("🇧🇷 Brazilian")
+    tree.add("😉 18 years-old")
     tree.add("🔧 Back-end developer")
     tree.add("📚 Computer Science student at [link=https://ufal.br/]UFAL")
 
