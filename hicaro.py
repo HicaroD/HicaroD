@@ -9,7 +9,7 @@ def main():
 
     tree = Tree("🤓 [link=https://websiteportfolio13.herokuapp.com]Hícaro Dânrlley")
     tree.add("🇧🇷 Brazilian")
-    tree.add("😉 18 years-old")
+    tree.add("😉 19 years-old")
     tree.add("🔧 Back-end developer")
     tree.add("📚 Computer Science student at [link=https://ufal.br/]UFAL")
 
