@@ -13,7 +13,10 @@ def main():
     tree.add("😉 19 years-old")
     tree.add("🔧 Back-end developer")
     tree.add("📚 Computer Science student at [link=https://ufal.br/]UFAL")
-    tree.add("📇 Contact me via [link=mailto:hdanrlley1@gmail.com]e-mail")
+    contact_tree = Tree("📇 Contact:")
+    contact_tree.add("✉️: [link=mailto:hdanrlley1@gmail.com]hdanrlley1@gmail.com")
+    contact_tree.add("Linkedin️: [link=https://www.linkedin.com/in/hicaromiguel/]hicaromiguel")
+    tree.add(contact_tree)
 
     about = "I'm currently looking for my first job opportunity as back-end developer. I'm very passionate about compilers, that's why I've been working on a compiler for my own programming language called idk."
 
