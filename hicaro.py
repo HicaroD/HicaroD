@@ -15,7 +15,7 @@ def main():
     tree.add("📚 Computer Science student at [link=https://ufal.br/]UFAL")
     contact_tree = Tree("📇 Contact:")
     contact_tree.add("✉️: [link=mailto:hdanrlley1@gmail.com]hdanrlley1@gmail.com")
-    contact_tree.add("Linkedin️: [link=https://www.linkedin.com/in/hicaromiguel/]hicaromiguel")
+    contact_tree.add("LinkedIn️: [link=https://www.linkedin.com/in/hicaromiguel/]hicaromiguel")
     tree.add(contact_tree)
 
     about = "I'm currently looking for my first job opportunity as back-end developer. I'm very versatile and I can easily learn a new technology, such as programming languages and frameworks, in order to get the job done. I've been writing code since the beginning of 2021 in multiple programming languages, such Python, Rust, Go, C++, Dart and a bit more."
