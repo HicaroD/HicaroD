@@ -8,7 +8,7 @@ from rich.tree import Tree
 def main():
     console = Console(record=True, width=100)
 
-    tree = Tree("🤓 [link=https://websiteportfolio13.herokuapp.com]Hícaro Dânrlley")
+    tree = Tree("🤓 Hícaro Dânrlley")
     tree.add("🇧🇷 Brazilian")
     tree.add("😉 19 years-old")
     tree.add("🔧 Back-end developer")
