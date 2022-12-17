@@ -18,7 +18,7 @@ def main():
     contact_tree.add("LinkedIn️: [link=https://www.linkedin.com/in/hicaromiguel/]hicaromiguel")
     tree.add(contact_tree)
 
-    about = "I'm very versatile and I can easily learn a new technology, such as programming languages and frameworks, in order to get the job done. I've been writing code since the beginning of 2021 in multiple programming languages, such Python, Rust, Go, C++, Dart and a bit more. Nowadays, I work as mobile developer with Flutter and I have a side project called 'Icarus', which is a compiler being written in Rust for my own programming language."
+    about = "I'm very versatile and I can easily learn a new technology, such as programming languages and frameworks, in order to get the job done. I've been writing code since the beginning of 2021 in multiple programming languages, such as Python, Rust, Go and Dart. Nowadays, I work as mobile developer with Flutter and I have a side project called 'Icarus', which is a compiler being written in Rust for my own programming language."
 
     panel = Panel.fit(about, box=box.DOUBLE, title="About me", width=60)
     console.print(Columns([panel, tree]))
