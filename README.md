@@ -9,14 +9,14 @@
 ┏━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━┓
 ┃<span style="font-weight: bold"> Name                 </span>┃<span style="font-weight: bold"> Description                                                   </span>┃<span style="font-weight: bold"> Tools     </span>┃
 ┡━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━┩
-│<span style="font-weight: bold"> </span><span style="font-weight: bold"><a href="https://github.com/IcarusLang/Icarus">Icarus</a></span><span style="font-weight: bold">               </span>│<span style="font-weight: bold"> An open source programming language.                          </span>│<span style="font-weight: bold"> C++       </span>│
+│ <a href="https://github.com/IcarusLang/Icarus">Icarus</a>               │ An open source programming language.                          │ C++       │
 ├──────────────────────┼───────────────────────────────────────────────────────────────┼───────────┤
-│<span style="font-weight: bold"> </span><span style="font-weight: bold"><a href="https://github.com/HicaroD/chip8-rs">chip8-rs</a></span><span style="font-weight: bold">             </span>│<span style="font-weight: bold"> A CHIP8 interpreter.                                          </span>│<span style="font-weight: bold"> Rust      </span>│
+│ <a href="https://github.com/HicaroD/chip8-rs">chip8-rs</a>             │ A CHIP8 interpreter.                                          │ Rust      │
 ├──────────────────────┼───────────────────────────────────────────────────────────────┼───────────┤
-│<span style="font-weight: bold"> </span><span style="font-weight: bold"><a href="https://github.com/HicaroD/game-of-life">game-of-life</a></span><span style="font-weight: bold">         </span>│<span style="font-weight: bold"> Conway&#x27;s Game of Life.                                        </span>│<span style="font-weight: bold"> C++       </span>│
+│ <a href="https://github.com/HicaroD/game-of-life">game-of-life</a>         │ Conway&#x27;s Game of Life.                                        │ C++       │
 ├──────────────────────┼───────────────────────────────────────────────────────────────┼───────────┤
-│<span style="font-weight: bold"> </span><span style="font-weight: bold"><a href="https://github.com/HicaroD/pull-requests">pull_requests</a></span><span style="font-weight: bold">        </span>│<span style="font-weight: bold"> CLI for creating pull requests                                </span>│<span style="font-weight: bold"> Python    </span>│
+│ <a href="https://github.com/HicaroD/pull-requests">pull_requests</a>        │ CLI for creating pull requests                                │ Python    │
 ├──────────────────────┼───────────────────────────────────────────────────────────────┼───────────┤
-│<span style="font-weight: bold"> </span><span style="font-weight: bold"><a href="https://github.com/HicaroD/TodoAsIssue">TodoAsIssue</a></span><span style="font-weight: bold">          </span>│<span style="font-weight: bold"> From TODOs to issues on GitHub or GitLab.                     </span>│<span style="font-weight: bold"> Dart      </span>│
+│ <a href="https://github.com/HicaroD/TodoAsIssue">TodoAsIssue</a>          │ From TODOs to issues on GitHub or GitLab.                     │ Dart      │
 └──────────────────────┴───────────────────────────────────────────────────────────────┴───────────┘
 </pre>
