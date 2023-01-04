@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<head>
-<meta charset="UTF-8">
-<style>
-
-body {
-    color: #000000;
-    background-color: #ffffff;
-}
-</style>
-</head>
-<html>
-<body>
-    <code>
-        <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">╔════════════════════════ About me ════════════════════════╗ 🤓 <a href="https://drive.google.com/drive/folders/1HEgd8xXOdbcE1ve6Uhzkxa3vlJ06AfjY?usp=share_link">Hícaro Dânrlley</a>                     
+<pre style="font-family:Helvetica">╔════════════════════════ About me ════════════════════════╗ 🤓 <a href="https://drive.google.com/drive/folders/1HEgd8xXOdbcE1ve6Uhzkxa3vlJ06AfjY?usp=share_link">Hícaro Dânrlley</a>                     
 ║ I&#x27;ve been writing code for 3 years in Python, Go, Rust   ║ ├── 🇧🇷 Brazilian                       
 ║ and Dart. Nowadays, I work as a Flutter mobile developer ║ ├── 😉 19 years-old                    
 ║ and  work on open source projects in my spare time. I    ║ ├── 🔧 Back-end developer              
@@ -36,6 +22,3 @@ body {
 │               │ or GitLab.                      │        │
 └───────────────┴─────────────────────────────────┴────────┘
 </pre>
-    </code>
-</body>
-</html>

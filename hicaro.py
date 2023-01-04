@@ -73,7 +73,8 @@ def main():
     console.print(Columns([about_me_panel, personal_info_tree]))
     console.print(project_table)
 
-    console.save_html("README.md", inline_styles=True)
+    CONSOLE_HTML_FORMAT = """<pre style="font-family:Helvetica">{code}</pre>"""
+    console.save_html("README.md", inline_styles=True, code_format=CONSOLE_HTML_FORMAT)
 
 
 if __name__ == "__main__":
