@@ -2,13 +2,31 @@
     {
         "name": "Icarus",
         "link": "https://github.com/IcarusLang/Icarus",
-        "description": "An open source programming language",
+        "description": "An open source programming language.",
         "tools": "C++"
+    },
+    {
+        "name": "chip8-rs",
+        "link": "https://github.com/HicaroD/chip8-rs",
+        "description": "A CHIP8 interpreter.",
+        "tools": "Rust"
+    },
+    {
+        "name": "game-of-life",
+        "link": "https://github.com/HicaroD/game-of-life",
+        "description": "Conway's Game of Life.",
+        "tools": "C++"
+    },
+    {
+        "name": "pull_requests",
+        "link": "https://github.com/HicaroD/pull-requests",
+        "description": "CLI for creating pull requests",
+        "tools": "Python"
     },
     {
         "name": "TodoAsIssue",
         "link": "https://github.com/HicaroD/TodoAsIssue",
-        "description": "From TODOs to issues on GitHub or GitLab",
+        "description": "From TODOs to issues on GitHub or GitLab.",
         "tools": "Dart"
     }
 ]
