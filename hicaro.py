@@ -1,13 +1,11 @@
 from pathlib import Path
 import json
-import rich
 from rich import box
 from rich.columns import Columns
 from rich.console import Console
 from rich.panel import Panel
 from rich.tree import Tree
 from rich.table import Table
-from rich.layout import Layout
 
 
 def get_projects():
@@ -58,7 +56,7 @@ def get_personal_information_tree():
 
 
 def get_about_me_panel():
-    about = """I've been writing code for 3 years in Python, Go, Rust and Dart. Nowadays, I work as Flutter mobile developer and I really love to work on open source projects. Feel free to see some of them below."""
+    about = """I've been writing code for 3 years in Python, Go, Rust and Dart. Nowadays, I work as a Flutter mobile developer and  work on open source projects in my spare time. I would love to contribute to other open source projects to help the community and improve my skills. I'm very passionate about compilers and programming languages."""
     panel = Panel.fit(about, box=box.DOUBLE, title="About me", width=60)
     return panel
 
@@ -68,7 +66,6 @@ def main():
     personal_info_tree = get_personal_information_tree()
 
     projects = get_projects()
-    print(projects)
     project_table = get_project_table(projects)
 
     about_me_panel = get_about_me_panel()
@@ -76,8 +73,7 @@ def main():
     console.print(Columns([about_me_panel, personal_info_tree]))
     console.print(project_table)
 
-    CONSOLE_HTML_FORMAT = """<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>"""
-    console.save_html("README.md", inline_styles=True, code_format=CONSOLE_HTML_FORMAT)
+    console.save_html("README.md")
 
 
 if __name__ == "__main__":
