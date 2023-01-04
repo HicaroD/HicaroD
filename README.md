@@ -2,7 +2,7 @@
 ║ I&#x27;ve been writing code for 3 years in Python, Go, Rust   ║ ├── 🇧🇷 Brazilian                       
 ║ and Dart. Nowadays, I work as Flutter mobile developer   ║ ├── 😉 19 years-old                    
 ║ and I really love to work on open source projects. Feel  ║ ├── 🔧 Back-end developer              
-║ free to see some of them below 😄.                       ║ ├── 📚 Computer Science student at <a href="https://ufal.br/">UFAL</a>
+║ free to see some of them below.                          ║ ├── 📚 Computer Science student at <a href="https://ufal.br/">UFAL</a>
 ╚══════════════════════════════════════════════════════════╝ └── 📇 Contact:                        
                                                                  ├── ✉️: <a href="mailto:hdanrlley1@gmail.com">hdanrlley1@gmail.com</a>        
                                                                  └── LinkedIn️: <a href="https://www.linkedin.com/in/hicaromiguel/">hicaromiguel</a>         

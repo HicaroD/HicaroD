@@ -21,7 +21,7 @@ def get_projects():
 
 
 def get_project_table(projects):
-    projects_table = Table(title="Projects", show_header=True, header_style="bold", show_lines=True, width=60)
+    projects_table = Table(title="Projects", show_header=True, show_lines=True, width=60)
     projects_table.add_column("Name")
     projects_table.add_column("Description")
     projects_table.add_column("Tools")
@@ -55,7 +55,7 @@ def get_personal_information_tree():
 
 
 def get_about_me_panel():
-    about = """I've been writing code for 3 years in Python, Go, Rust and Dart. Nowadays, I work as Flutter mobile developer and I really love to work on open source projects. Feel free to see some of them below 😄."""
+    about = """I've been writing code for 3 years in Python, Go, Rust and Dart. Nowadays, I work as Flutter mobile developer and I really love to work on open source projects. Feel free to see some of them below."""
     panel = Panel.fit(about, box=box.DOUBLE, title="About me", width=60)
     return panel
 
