@@ -20,7 +20,7 @@ def get_projects():
 
 
 def get_project_table(projects):
-    projects_table = Table(show_header=True, show_lines=True, width=100)
+    projects_table = Table(title="Projects", show_header=True, show_lines=True, width=100)
     projects_table.add_column("Name")
     projects_table.add_column("Description")
     projects_table.add_column("Tools")
