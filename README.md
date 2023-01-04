@@ -7,7 +7,7 @@
 ║ passionate about compilers and programming languages.    ║     ├── ✉️: <a href="mailto:hdanrlley1@gmail.com">hdanrlley1@gmail.com</a>        
 ╚══════════════════════════════════════════════════════════╝     └── LinkedIn️: <a href="https://www.linkedin.com/in/hicaromiguel/">hicaromiguel</a>         
 ┏━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━┓
-┃<span style="font-weight: bold"> Name                 </span>┃<span style="font-weight: bold"> Description                                                   </span>┃<span style="font-weight: bold"> Tools     </span>┃
+┃ Name                 ┃ Description                                                   ┃ Tools     ┃
 ┡━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━┩
 │ <a href="https://github.com/IcarusLang/Icarus">Icarus</a>               │ An open source programming language.                          │ C++       │
 ├──────────────────────┼───────────────────────────────────────────────────────────────┼───────────┤
