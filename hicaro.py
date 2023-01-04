@@ -73,7 +73,7 @@ def main():
     console.print(Columns([about_me_panel, personal_info_tree]))
     console.print(project_table)
 
-    console.save_html("README.md")
+    console.save_html("README.md", inline_styles=True)
 
 
 if __name__ == "__main__":
