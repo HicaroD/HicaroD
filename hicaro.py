@@ -9,6 +9,7 @@ from rich.tree import Tree
 from rich.table import Table
 from rich.layout import Layout
 
+
 def get_projects():
     path = Path("projects.json")
     if not path.is_file():
@@ -21,7 +22,9 @@ def get_projects():
 
 
 def get_project_table(projects):
-    projects_table = Table(title="Projects", show_header=True, show_lines=True, width=60)
+    projects_table = Table(
+       show_header=True, show_lines=True, width=60
+    )
     projects_table.add_column("Name")
     projects_table.add_column("Description")
     projects_table.add_column("Tools")
@@ -75,6 +78,7 @@ def main():
 
     CONSOLE_HTML_FORMAT = """<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>"""
     console.save_html("README.md", inline_styles=True, code_format=CONSOLE_HTML_FORMAT)
+
 
 if __name__ == "__main__":
     main()
