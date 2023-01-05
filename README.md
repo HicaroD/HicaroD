@@ -10,8 +10,6 @@
 ┏━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━┓
 ┃<span style="font-weight: bold"> Name                 </span>┃<span style="font-weight: bold"> Description                                                   </span>┃<span style="font-weight: bold"> Tools     </span>┃
 ┡━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━┩
-│ <a href="https://github.com/IcarusLang/Icarus">Icarus</a>               │ An open source programming language.                          │ C++       │
-├──────────────────────┼───────────────────────────────────────────────────────────────┼───────────┤
 │ <a href="https://github.com/HicaroD/chip8-rs">chip8-rs</a>             │ A CHIP8 interpreter.                                          │ Rust      │
 ├──────────────────────┼───────────────────────────────────────────────────────────────┼───────────┤
 │ <a href="https://github.com/HicaroD/game-of-life">game-of-life</a>         │ Conway&#x27;s Game of Life.                                        │ C++       │

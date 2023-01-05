@@ -1,11 +1,5 @@
 [
     {
-        "name": "Icarus",
-        "link": "https://github.com/IcarusLang/Icarus",
-        "description": "An open source programming language.",
-        "tools": "C++"
-    },
-    {
         "name": "chip8-rs",
         "link": "https://github.com/HicaroD/chip8-rs",
         "description": "A CHIP8 interpreter.",
