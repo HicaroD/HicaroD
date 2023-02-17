@@ -38,7 +38,7 @@ def get_project_table(projects):
 
 def get_personal_information_tree():
     tree = Tree(
-        "🤓 [link=https://hicaro.netlify.app/]Hícaro Dânrlley"
+        "🤓 [link=https://hicro.netlify.app/]Hícaro Dânrlley"
     )
     tree.add("🇧🇷 Brazilian")
     tree.add("😉 19 years-old")
