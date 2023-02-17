@@ -7,35 +7,6 @@ from rich.panel import Panel
 from rich.tree import Tree
 from rich.table import Table
 
-
-def get_projects():
-    path = Path("projects.json")
-    if not path.is_file():
-        print("Error: projects.json not found")
-        exit(1)
-
-    with open(path, "r") as file:
-        json_file = json.load(file)
-        return json_file
-
-
-def get_project_table(projects):
-    projects_table = Table(title="Projects", show_header=True, show_lines=True, width=100)
-    projects_table.add_column("Name")
-    projects_table.add_column("Description")
-    projects_table.add_column("Tools")
-
-    for project in projects:
-        project_name_with_link = f"[link={project['link']}]{project['name']}"
-        projects_table.add_row(
-            project_name_with_link,
-            project["description"],
-            project["tools"],
-        )
-
-    return projects_table
-
-
 def get_personal_information_tree():
     tree = Tree(
         "🤓 [link=https://hicro.netlify.app/]Hícaro Dânrlley"
@@ -62,14 +33,9 @@ def get_about_me_panel():
 def main():
     console = Console(record=True, width=100)
     personal_info_tree = get_personal_information_tree()
-
-    projects = get_projects()
-    project_table = get_project_table(projects)
-
     about_me_panel = get_about_me_panel()
 
     console.print(Columns([about_me_panel, personal_info_tree]))
-    console.print(project_table)
 
     CONSOLE_HTML_FORMAT = """<pre style="font-family:Helvetica">{code}</pre>"""
     console.save_html("README.md", inline_styles=True, code_format=CONSOLE_HTML_FORMAT)
