@@ -25,7 +25,7 @@ def get_personal_information_tree():
 
 
 def get_about_me_panel():
-    about = """My name is Hícaro and I'm a brazilian software developer and Computer Science student at Universidade Federal de Alagoas (UFAL). Nowadays, I work as a mobile developer with Flutter in Otimize Tech. In my spare time, I like working on personal projects using many different technologies, such as Flutter, Python, NodeJS with Typescript, Rust, Java and many more. I'm very passionate about compilers, software architecture, algorithms and data structures, back-end development and more."""
+    about = """My name is Hícaro and I'm a brazilian software developer and Computer Science student at Universidade Federal de Alagoas (UFAL). Nowadays, I work as a mobile developer with Flutter in Otimize Tech. In my spare time, I work on personal projects using many different technologies, such as Flutter, Python, NodeJS with Typescript, Rust, Java and many more. I'm very passionate about compilers, software architecture, algorithms and data structures, back-end development and more."""
     panel = Panel.fit(about, box=box.DOUBLE, title="About me", width=60)
     return panel
 
