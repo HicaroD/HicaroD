@@ -1,12 +1,12 @@
 <pre style="font-family:Helvetica">╔════════════════════════ About me ════════════════════════╗ 🤓 <a href="https://hicro.netlify.app/">Hícaro Dânrlley</a>                     
-║ My name is Hícaro and I&#x27;m a brazilian software developer ║ ├── 🇧🇷 Brazilian                       
-║ and Computer Science student at Universidade Federal de  ║ ├── 😉 19 years-old                    
-║ Alagoas (UFAL). Nowadays, I work as a mobile developer   ║ ├── 🔧 Back-end and mobile developer   
-║ with Flutter in Otimize Tech. In my spare time, I work   ║ ├── 📚 Computer Science student at <a href="https://ufal.br/">UFAL</a>
-║ on personal projects using many different technologies,  ║ └── 📇 Contact:                        
-║ such as Flutter, Python, NodeJS with Typescript, Rust,   ║     ├── ✉️: <a href="mailto:hdanrlley1@gmail.com">hdanrlley1@gmail.com</a>        
-║ Java and many more. I&#x27;m very passionate about compilers, ║     └── LinkedIn️: <a href="https://www.linkedin.com/in/hicaromiguel/">hicaromiguel</a>         
-║ software architecture, algorithms and data structures,   ║                                        
-║ back-end development and more.                           ║                                        
+║ I&#x27;m a brazilian software developer and Computer Science  ║ ├── 🇧🇷 Brazilian                       
+║ student at Universidade Federal de Alagoas (UFAL).       ║ ├── 😉 19 years-old                    
+║ Nowadays, I work as a mobile developer with Flutter in   ║ ├── 🔧 Back-end and mobile developer   
+║ Otimize Tech. In my spare time, I work on personal       ║ ├── 📚 Computer Science student at <a href="https://ufal.br/">UFAL</a>
+║ projects using many different technologies, such as      ║ └── 📇 Contact:                        
+║ Flutter, Python, NodeJS with Typescript, Rust, Java and  ║     ├── ✉️: <a href="mailto:hdanrlley1@gmail.com">hdanrlley1@gmail.com</a>        
+║ many more. I&#x27;m very passionate about compilers, software ║     └── LinkedIn️: <a href="https://www.linkedin.com/in/hicaromiguel/">hicaromiguel</a>         
+║ architecture, algorithms and data structures, back-end   ║                                        
+║ development and more.                                    ║                                        
 ╚══════════════════════════════════════════════════════════╝                                        
 </pre>
