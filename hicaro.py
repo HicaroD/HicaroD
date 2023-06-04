@@ -13,7 +13,7 @@ def get_personal_information_tree():
     )
     tree.add("🇧🇷 Brazilian")
     tree.add("😉 19 years-old")
-    tree.add("🔧 Back-end developer")
+    tree.add("🔧 Back-end and mobile developer")
     tree.add("📚 Computer Science student at [link=https://ufal.br/]UFAL")
     contact_tree = Tree("📇 Contact:")
     contact_tree.add("✉️: [link=mailto:hdanrlley1@gmail.com]hdanrlley1@gmail.com")
