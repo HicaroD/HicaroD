@@ -9,7 +9,7 @@ from rich.table import Table
 
 def get_personal_information_tree():
     tree = Tree(
-        "🤓 [link=https://hicro.netlify.app/]Hícaro Dânrlley"
+        "🤓 [link=https://hicarod.github.io/]Hícaro Dânrlley"
     )
     tree.add("🇧🇷 Brazilian")
     tree.add("😉 19 years-old")
