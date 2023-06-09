@@ -1,27 +1,42 @@
-from pathlib import Path
-import json
 from rich import box
 from rich.columns import Columns
 from rich.console import Console
 from rich.panel import Panel
 from rich.tree import Tree
-from rich.table import Table
 
-def get_personal_information_tree():
-    tree = Tree(
-        "🤓 [link=https://hicarod.github.io/]Hícaro Dânrlley"
-    )
-    tree.add("🇧🇷 Brazilian")
-    tree.add("😉 19 years-old")
-    tree.add("🔧 Back-end and mobile developer")
-    tree.add("📚 Computer Science student at [link=https://ufal.br/]UFAL")
+def get_contact_tree():
     contact_tree = Tree("📇 Contact:")
     contact_tree.add("✉️: [link=mailto:hdanrlley1@gmail.com]hdanrlley1@gmail.com")
     contact_tree.add(
         "LinkedIn️: [link=https://www.linkedin.com/in/hicaromiguel/]hicaromiguel"
     )
-    tree.add(contact_tree)
-    return tree
+    return contact_tree
+
+def get_tech_tree():
+    tech_tree = Tree("🖥️Tech & tools")
+    tech_tree.add("✏️ Neovim as main code editor")
+    return tech_tree
+
+def get_personal_info_tree():
+    personal_info_tree = Tree(
+        "🤓 [link=https://hicarod.github.io/]Hícaro Dânrlley"
+    )
+    personal_info_tree.add("🇧🇷 Brazilian")
+    personal_info_tree.add("😉 19 years-old")
+    personal_info_tree.add("🔧 Back-end and mobile developer")
+    personal_info_tree.add("📚 Computer Science student at [link=https://ufal.br/]UFAL")
+    return personal_info_tree
+
+
+def get_main_tree():
+    main_tree = get_personal_info_tree()
+    contact_tree = get_contact_tree()
+    tech_tree = get_tech_tree()
+
+    main_tree.add(contact_tree)
+    main_tree.add(tech_tree)
+
+    return main_tree
 
 
 def get_about_me_panel():
@@ -32,7 +47,7 @@ def get_about_me_panel():
 
 def main():
     console = Console(record=True, width=100)
-    personal_info_tree = get_personal_information_tree()
+    personal_info_tree = get_main_tree()
     about_me_panel = get_about_me_panel()
 
     console.print(Columns([about_me_panel, personal_info_tree]))
