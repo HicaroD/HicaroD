@@ -6,7 +6,7 @@
 ║ projects using many different technologies, such as      ║ ├── 📇 Contact:                        
 ║ Flutter, Python, NodeJS with Typescript, Rust, Java and  ║ │   ├── ✉️: <a href="mailto:hdanrlley1@gmail.com">hdanrlley1@gmail.com</a>        
 ║ many more. I&#x27;m very passionate about compilers, software ║ │   └── LinkedIn️: <a href="https://www.linkedin.com/in/hicaromiguel/">hicaromiguel</a>         
-║ architecture, algorithms and data structures, back-end   ║ └── 🖥️Tech &amp; tools                      
+║ architecture, algorithms and data structures, back-end   ║ └── 🖥️ Tech &amp; tools                     
 ║ development and more.                                    ║     └── ✏️ Neovim as main code editor   
 ╚══════════════════════════════════════════════════════════╝                                        
 </pre>

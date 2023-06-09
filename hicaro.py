@@ -13,7 +13,7 @@ def get_contact_tree():
     return contact_tree
 
 def get_tech_tree():
-    tech_tree = Tree("🖥️Tech & tools")
+    tech_tree = Tree("🖥️ Tech & tools")
     tech_tree.add("✏️ Neovim as main code editor")
     return tech_tree
 
