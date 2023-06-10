@@ -12,11 +12,6 @@ def get_contact_tree():
     )
     return contact_tree
 
-def get_tech_tree():
-    tech_tree = Tree("🖥️ Tech & tools")
-    tech_tree.add("✏️ Neovim as main code editor")
-    return tech_tree
-
 def get_personal_info_tree():
     personal_info_tree = Tree(
         "🤓 [link=https://hicarod.github.io/]Hícaro Dânrlley"
@@ -31,11 +26,7 @@ def get_personal_info_tree():
 def get_main_tree():
     main_tree = get_personal_info_tree()
     contact_tree = get_contact_tree()
-    tech_tree = get_tech_tree()
-
     main_tree.add(contact_tree)
-    main_tree.add(tech_tree)
-
     return main_tree
 
 
