@@ -4,6 +4,7 @@ from rich.console import Console
 from rich.panel import Panel
 from rich.tree import Tree
 
+
 def get_contact_tree():
     contact_tree = Tree("📇 Contact:")
     contact_tree.add("✉️: [link=mailto:hdanrlley1@gmail.com]hdanrlley1@gmail.com")
@@ -12,10 +13,9 @@ def get_contact_tree():
     )
     return contact_tree
 
+
 def get_personal_info_tree():
-    personal_info_tree = Tree(
-        "🤓 [link=https://hicarod.github.io/]Hícaro Dânrlley"
-    )
+    personal_info_tree = Tree("🤓 [link=https://hicarod.github.io/]Hícaro Dânrlley")
     personal_info_tree.add("🇧🇷 Brazilian")
     personal_info_tree.add("😉 19 years-old")
     personal_info_tree.add("🔧 Back-end and mobile developer")
