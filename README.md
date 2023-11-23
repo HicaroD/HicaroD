@@ -7,8 +7,11 @@ I work as a mobile and back-end developer at Otimize, a brazilian startup pionee
 in technologies for 3D evaluation of human movement kinematics. 
 
 During my spare time, I have made sporadic contributions to open-source
-developer tools, such as telescope.nvim (fuzzy finder for the Neovim text
-editor written in Lua) and quick-lint-js (a JavaScript linter written in C++).
+developer tools, such as
+[telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) (fuzzy
+finder for the Neovim text editor written in Lua) and
+[quick-lint-js](https://github.com/quick-lint/quick-lint-js) (a JavaScript
+linter written in C++).
 
 I also like to build personal project in many different programming languages,
 especially tools for automating daily boring tasks.
