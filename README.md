@@ -4,12 +4,14 @@ I'm a 🇧🇷 brazilian software engineer with more than 3 years of experience 
 Computer Science student at Universidade Federal de Alagoas (UFAL).
 
 I work as a mobile and back-end developer at Otimize, a brazilian startup pioneer
-in technologies for 3D evaluation of human movement kinematics. During my spare
-time, I have made sporadic contributions to open-source developer tools, such
-as telescope.nvim (fuzzy finder for the Neovim text editor written in Lua) and
-quick-lint-js (a JavaScript linter written in C++). I also like to build
-personal project in many different programming languages, especially tools for
-automating daily boring tasks.
+in technologies for 3D evaluation of human movement kinematics. 
+
+During my spare time, I have made sporadic contributions to open-source
+developer tools, such as telescope.nvim (fuzzy finder for the Neovim text
+editor written in Lua) and quick-lint-js (a JavaScript linter written in C++).
+
+I also like to build personal project in many different programming languages,
+especially tools for automating daily boring tasks.
 
 ## Skills
 
