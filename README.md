@@ -1,6 +1,6 @@
 ## About me
 
-I'm a 🇧 brazilian software engineer with more than 3 years of experience and
+I'm a 🇧🇷 brazilian software engineer with more than 3 years of experience and
 Computer Science student at Universidade Federal de Alagoas (UFAL).
 
 I work as a mobile and back-end developer at Otimize, brazilian startup pioneer
