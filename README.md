@@ -21,14 +21,11 @@ automating daily boring tasks.
   have great ease and flexibility in switching between programming languages
   and frameworks according to the task's requirements.
 
+- Fluent in conversational English and with advanced writing skills. I'm
+  [EC2 Proficient in the EF Standard English Test](https://www.efset.org/cert/gpUeom)
+
 - Computer Science student at UFAL, with a strong interest in analysis and
   performance of algorithms, compilers and software architecture.
-
-- Fluent in conversational English and with advanced writing skills.
-
-- Ability to learn new concepts and technologies easily.
-
-- Passionate about solving complex problems and creating efficient solutions.
 
 ## ☎️ Contact
 
