@@ -11,7 +11,7 @@ quick-lint-js (a JavaScript linter written in C++). I also like to build
 personal project in many different programming languages, especially tools for
 automating daily boring tasks.
 
-## More about me
+## Skills
 
 - Experience as a back-end developer with Python, Go and other technologies,
   and as a cross-platform mobile app developer with Flutter.
@@ -27,7 +27,7 @@ automating daily boring tasks.
 - Computer Science student at UFAL, with a strong interest in analysis and
   performance of algorithms, compilers and software architecture.
 
-## ☎️ Contact
+## Contact
 
 Feel free to contact me for business inquiries:
 
