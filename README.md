@@ -11,7 +11,7 @@ I also love compilers. My main personal project is a compiler for my own
 programming language called "idk". This compiler is being written in Rust with
 hand-written lexical, syntactic, and semantic algorithms. Currently, I'm
 planning to use LLVM to build the backend in order to produce fast and
-optimized code for several platforms. For the language's syntax, I got
+optimized code for several platforms. About the language's syntax, I got
 inspiration from other languages, such as Python, Rust, Go, and Odin. Soon it
 will be open-source so I can **hopefully** receive help from more experienced
 compiler developers on the Internet.
