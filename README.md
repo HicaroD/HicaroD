@@ -3,8 +3,18 @@
 I'm a 🇧🇷 brazilian software engineer with more than 3 years of experience and
 Computer Science student at Universidade Federal de Alagoas (UFAL).
 
-I work as a mobile and back-end developer at Otimize, a brazilian startup pioneer
-in technologies for 3D evaluation of human movement kinematics. 
+More especifically, I am a mobile and backend developer. I am currently
+working at Otimize, a Brazilian startup that is pioneering the use of
+technology to evaluate human movement kinematics.
+
+I also love compilers. My main personal project is a compiler for my own
+programming language called "idk". This compiler is being written in Rust with
+hand-written lexical, syntactic, and semantic algorithms. Currently, I'm
+planning to use LLVM to build the backend in order to produce fast and
+optimized code for several platforms. For the language's syntax, I got
+inspiration from other languages, such as Python, Rust, Go, and Odin. Soon it
+will be open-source so I can **hopefully** receive help from more experienced
+compiler developers on the Internet.
 
 During my spare time, I have made sporadic contributions to open-source
 developer tools, such as
@@ -12,9 +22,6 @@ developer tools, such as
 finder for the Neovim text editor written in Lua) and
 [quick-lint-js](https://github.com/quick-lint/quick-lint-js) (a JavaScript
 linter written in C++).
-
-I also like to build personal project in many different programming languages,
-especially tools for automating daily boring tasks.
 
 ## Skills
 
