@@ -39,9 +39,8 @@ linter written in C++).
 - Computer Science student at UFAL, with a strong interest in analysis and
   performance of algorithms, compilers and software architecture.
 
-## Contact
+## Where can you find me?
 
-Feel free to contact me for business inquiries:
-
+- [Website](https://hicarod.github.io)
 - [LinkedIn](https://www.linkedin.com/in/hicaromiguel/)
 - [E-mail](mailto:hdanrlley1@gmail.com)
