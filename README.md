@@ -8,8 +8,7 @@ working at Otimize, a Brazilian startup that is pioneering the use of
 technology to evaluate human movement kinematics.
 
 I also love compilers. My main personal project is a compiler for my own
-programming language called "idk". This compiler is being written in Rust with
-hand-written lexical, syntactic, and semantic algorithms. 
+programming language called "Telia".
 
 During my spare time, I have made sporadic contributions to open-source
 developer tools, such as
