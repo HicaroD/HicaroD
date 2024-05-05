@@ -3,8 +3,8 @@
 I'm a 🇧🇷 brazilian software engineer with more than 3 years of experience and
 Computer Science student at Universidade Federal de Alagoas (UFAL).
 
-More especifically, I am a mobile and backend developer. I am currently
-working at Otimize, a Brazilian startup that is pioneering the use of
+More especifically, I am a mobile and back-end software engineer. I am
+currently working at Otimize, a Brazilian startup that is pioneering the use of
 technology to evaluate human movement kinematics.
 
 I also love compilers. My main personal project is a compiler for my own
